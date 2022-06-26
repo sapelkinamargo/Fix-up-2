@@ -1,0 +1,39 @@
+h1{
+  margin-left: 90px;
+  margin-top: 60px;
+  margin-bottom: 0px;
+  font-size: 90px;
+  font-family: 'Diplomata SC', cursive;
+  color: #9370DB;
+}
+.vstuplenie{
+  font-size: 40px;
+  margin-left: 30px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+header{
+ 
+}
+nav{
+  font-size: 30px;
+  margin-left: 50px;
+  margin-top: 25px;
+}
+a{
+  color:#9370DB;
+  margin-left: 60px;
+  text-decoration: none;
+  border: 3px dashed;
+  padding: 5px 5px;
+  background-color:#E6E6FA;
+}
+a:hover{
+  color:#4B0082;
+}
+a:visited{
+  color:#8B008B;
+}
+.au{
+  font-size:
+}
